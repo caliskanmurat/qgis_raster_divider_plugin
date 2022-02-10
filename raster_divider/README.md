@@ -1,13 +1,23 @@
 # QGIS Easy Raster Splitter Plugin
 
-With this plugin, it is possible to split raster files based on given polygon data. For correct results please be sure that the layers and the canvas have the same coordinate reference system.
-
-2 methods and 2 options are available for this process<br/>
-
-Some illustrative examples are shown below:
+With this plugin, it is possible to split raster files into equally sized chunks.
 <br/>
 
 <p align="left">
-  <img width="750" src="../images/interface.PNG">
+  <img width="300" src="../images/interface.PNG">
 </p>
 <br/>
+
+
+<table style="border-collapse: collapse; border:1px solid red;">
+  <tr>
+    <td rowspan="2"><img width="450" src="../images/raster.PNG"></td>
+    <td><img width="225" src="../images/raster_chunk_1.PNG"></td>    
+    <td><img width="225" src="../images/raster_chunk_2.PNG"></td>
+  </tr>
+  <tr>
+    <td><img width="225" src="../images/raster_chunk_3.PNG"></td>
+    <td><img width="225" src="../images/raster_chunk_4.PNG"></td>
+  </tr>  
+  
+</table>
