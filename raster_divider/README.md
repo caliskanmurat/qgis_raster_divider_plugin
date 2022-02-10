@@ -4,7 +4,7 @@ With this plugin, it is possible to split raster files into equally sized chunks
 <br/>
 
 <p align="left">
-  <img width="300" src="../images/interface.PNG">
+  <img width="300" src="../images/gui.PNG">
 </p>
 <br/>
 
