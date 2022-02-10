@@ -9,7 +9,7 @@ With this plugin, it is possible to split raster files into equally sized chunks
 <br/>
 
 
-<table style="border-collapse: collapse; border:1px solid red;">
+<table style="border-collapse: collapse; border:1px solid red;" cellpadding="0" cellspacing="0" >
   <tr>
     <td rowspan="2"><img width="450" src="../images/raster.PNG"></td>
     <td><img width="225" src="../images/raster_chunk_1.PNG"></td>    
