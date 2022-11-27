@@ -323,7 +323,7 @@ class RasterDivider:
                         self.name = "{}_{}_{}".format(self.raster_name, fx, fy)
                         self.newRasterSource = os.path.join(self.out_folder, self.name+".tif")
                         
-                        self.out_raster = gdal.Warp(self.newRasterSource, self.raster, outputBounds=(self.minX, self.minY, self.maxX, self.maxY), dstNodata=self.noDataValue)
+                        self.out_raster = gdal.Warp(self.newRasterSource, self.raster, outputBounds=(self.minX, self.minY, self.maxX, self.maxY), dstNodata=self.noDataValue, xRes=self.g2, yRes=self.g6)
                         
                         del self.out_raster
             
