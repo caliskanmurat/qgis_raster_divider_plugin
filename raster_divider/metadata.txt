@@ -6,8 +6,8 @@
 name=Raster Divider
 qgisMinimumVersion=3.0
 description=This plugin divides raster into equal sized parts.
-version=1.0
-author=Murat ÇALIŞKAN
+version=1.3
+author=Murat Çalışkan
 email=caliskan.murat.20@gmail.com
 
 about=This plugin divides raster into equal sized chunks depend on desired size.
