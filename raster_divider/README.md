@@ -21,3 +21,9 @@ With this plugin, it is possible to split raster files into equally sized chunks
   </tr>  
   
 </table>
+
+<table style="border-collapse: collapse; border:1px solid red;" cellpadding="0" cellspacing="0" >
+  <tr>
+    <td><img width="300" src="../images/overview.PNG"></td>
+  </tr>  
+</table>
