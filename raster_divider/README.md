@@ -1,4 +1,4 @@
-# QGIS Easy Raster Splitter Plugin
+# QGIS Raster Divider Plugin
 
 With this plugin, it is possible to split raster files into equally sized chunks.
 <br/>
