@@ -1,5 +1,0 @@
-<RCC>
-    <qresource prefix="/plugins/raster_divider" >
-        <file>icon.png</file>
-    </qresource>
-</RCC>
