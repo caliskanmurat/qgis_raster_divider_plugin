@@ -22,7 +22,8 @@ This plugin allows user to divide raster into equal sized grids depend on desire
 <br/>
 
 <br/>
-<b>Overlap Strategy:</b> There are two options for overlapping.<br/><br/>
+<b>Overlap Strategy:</b> There are two options for overlapping.<br/>
+
 - <b><i>Auto</i></b> : In this method an auto overlapping is applied to tiles to make the subraster completely align with the original raster. For instance; if raster size is 1000 px and desired tile size is 150 px than 6 subraster would be generated with <b>100px residual</b>. In order to prevent this residual, subrasters are overlapped automatically even if the overlapping value is 0. If the overlapping value is set as a number greater than 0, subrasters are overlapped automatically <b>taking this value into account</b>.
 <br/><br/>
 
